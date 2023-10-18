@@ -1,0 +1,20 @@
+.criar{
+  width: 10px;
+}
+
+.cancelar{
+  width: 80px;
+  margin-left: 2px;
+}
+
+.botoes {
+  display: flex;
+}
+
+.nome {
+  display: flex;
+}
+
+.preco {
+  display: flex;
+}
