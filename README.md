@@ -4,7 +4,7 @@
 <i>Autor: Matheus Carvalho</i>
 
 <div>
-    <img src="Engineering-Manager-MERN-Stack.gif" alt="Imagem">
+    <img src="dev.gif" alt="Imagem">
     <br>
 </div>
 
