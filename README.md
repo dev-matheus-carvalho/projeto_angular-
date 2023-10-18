@@ -21,5 +21,5 @@
 <div>
     <p>Abaixo segue meu certificado de conclusão do curso.</p>
 
-    <img src="Certificado Angular.PNG" alt="Certificado">
+    <img src="certificado.PNG" alt="Certificado">
 </div>
